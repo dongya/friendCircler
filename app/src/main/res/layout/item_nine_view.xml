@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="65dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginBottom="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.dongya.friendcircle.view.NineView
+        android:id="@+id/nineview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:space="2dp"/>
+</RelativeLayout>
